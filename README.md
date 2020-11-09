@@ -11,7 +11,7 @@
 
 ### Deploy
 
-Caso for criar um novo bucket, certifique-se de alterar as três ocorrências de "rocketnodeserverlessgrodrigues" no arquivo serverless.yml
+Caso for criar um novo bucket, certifique-se de alterar as três ocorrências de "rocketnodeserverlessgrodrigues" no arquivo serverless.yml, para um nome único de bucket.
 
     $ npm install serverless -g
     $ serverless deploy -v
